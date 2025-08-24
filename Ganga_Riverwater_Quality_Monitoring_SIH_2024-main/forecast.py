@@ -9,6 +9,23 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 
+function Dijkstra(Graph, source):
+    dist[source] ← 0
+    for each vertex v in Graph:
+        if v ≠ source:
+            dist[v] ← ∞
+        add v to unvisitedSet
+
+    while unvisitedSet is not empty:
+        u ← vertex in unvisitedSet with smallest dist[u]
+        remove u from unvisitedSet
+
+        for each neighbor v of u:
+            alt ← dist[u] + weight(u, v)
+            if alt < dist[v]:
+                dist[v] ← alt
+
+    return dist
 
 
 
@@ -121,3 +138,4 @@ st.markdown("""
 
 🚀 Data pipelines being integrated: These sources will power real-time ML + DSS in next version.
 """)
+

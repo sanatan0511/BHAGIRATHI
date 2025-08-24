@@ -41,10 +41,9 @@ def knapsack(values, weights, capacity):
     return dp[n][capacity]
 
 # Example usage
-values = [60, 100, 120]
-weights = [10, 20, 30]
-capacity = 50
-print("Maximum value:", knapsack(values, weights, capacity))
+values = []
+weights = []
+capacity = []
 
 
 city_bbox = {
@@ -156,5 +155,6 @@ st.markdown("""
 
 🚀 Data pipelines being integrated: These sources will power real-time ML + DSS in next version.
 """)
+
 
 

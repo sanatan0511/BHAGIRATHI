@@ -10,9 +10,7 @@ from collections import defaultdict, deque
 import numpy as np
 from bs4 import BeautifulSoup
 from sklearn.linear_model import LinearRegression
-import time
-with st.spinner("🔄 Loading data... Please wait"):
-    time.sleep(2)
+
 st.set_page_config(page_title="Ganga Water Quality Dashboard", layout="wide")
 st.title("🌊 Ganga River Water Quality Forecasting System")
 st.markdown("""
@@ -707,6 +705,7 @@ with tab7:
     Email: sanatansingh23@lpu.in 
     Namami Ganga: [https://nmcg.nic.in/NamamiGanga.aspx)  
     """)
+
 
 
 

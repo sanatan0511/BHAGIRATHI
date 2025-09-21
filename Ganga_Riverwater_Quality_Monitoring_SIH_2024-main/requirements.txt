@@ -14,3 +14,4 @@ requests
 plotly
 lxml
 html5lib
+time

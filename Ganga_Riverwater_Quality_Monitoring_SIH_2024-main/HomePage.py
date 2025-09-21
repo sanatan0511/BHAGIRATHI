@@ -18,6 +18,7 @@ st.markdown("""
 This dashboard provides real-time and simulated insights into **Ganga River water quality, weather trends**, **industrial discharge**, and **satellite-based indicators**.
 """)
 
+st.toast("✅ Welcome User!", icon="✅")
 
 class RiverNetwork:
     def __init__(self):
@@ -693,12 +694,17 @@ with tab7:
     
     st.markdown("""
     ### Team Members
-     Sanatan Singh (Leader && GIS  && Backend Developer &&API && ALL WORK DONE SOLELY AND INFAVOUR OF SANATAN SINGH )
+     - Prayas 
+     - Shyam Gupta
+     - Shivam kesari
+     - Nipon Tradarshi
      
+     # Develop and design by - SiyaRam Society of Research and Development 
      © SIYA RAM SOCIETY OF RESEARCH AND DEVELOPMENT
     
     ### Contact Information
     Email: sanatansingh23@lpu.in 
     Namami Ganga: [https://nmcg.nic.in/NamamiGanga.aspx)  
     """)
+
 

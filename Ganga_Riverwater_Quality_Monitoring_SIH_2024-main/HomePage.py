@@ -16,7 +16,7 @@ st.title("🌊 Ganga River Water Quality Forecasting System")
 st.markdown("""
 This dashboard provides real-time and simulated insights into **Ganga River water quality, weather trends**, **industrial discharge**, and **satellite-based indicators**.
 """)
-st.ballons()
+st.balloons()
 st.snow()
 st.toast("🌱  Welcome User!", icon="✅")
 
@@ -706,6 +706,7 @@ with tab7:
     Email: sanatansingh23@lpu.in 
     Namami Ganga: [https://nmcg.nic.in/NamamiGanga.aspx)  
     """)
+
 
 
 

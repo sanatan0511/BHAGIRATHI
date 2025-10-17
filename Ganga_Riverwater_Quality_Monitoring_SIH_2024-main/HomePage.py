@@ -693,10 +693,7 @@ with tab7:
     
     st.markdown("""
     ### Team Members
-     - Prayas 
-     - Shyam Gupta
-     - Shivam kesari
-     - Nipon Tradarshi
+     - (Leader && GIS  && Backend Developer &&API && ALL WORK DONE SOLELY AND INFAVOUR OF SANATAN SINGH )
      
      # Develop and design by - SiyaRam Society of Research and Development 
      © SIYA RAM SOCIETY OF RESEARCH AND DEVELOPMENT
@@ -705,6 +702,7 @@ with tab7:
     Email: sanatansingh23@lpu.in 
     Namami Ganga: [https://nmcg.nic.in/NamamiGanga.aspx)  
     """)
+
 
 
 

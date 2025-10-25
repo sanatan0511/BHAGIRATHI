@@ -1,6 +1,6 @@
 Hey Everyone,This is SIH project of 2024 from minnitry if namami of Ganga project stated back in 2016 with initiative of clean ganga (naamami ganga project).If you need any suggestion or anything please contact admin.Also it have p2p security so hassle free browsing with high end server security with Blockchain. 
 -This project comes under open mit license .
-The following team member include in this prokject and special thanks to call
+The following team member include in this prokject and special thanks to all
 1. Shivam Kesari
 2. Nippon
 3. Prayas

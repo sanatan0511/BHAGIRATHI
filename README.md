@@ -3,7 +3,7 @@
 Hey everyone!
 This is our Smart India Hackathon (SIH) 2024 project under the Ministry of Jal Shakti, inspired by the Namami Gange Mission — an initiative launched in 2016 to rejuvenate and clean the sacred River Ganga by P.M. Sir. Narendra Modi
 
-Our project focuses on creating a secure, blockchain-backed system for data integrity, transparency, and real-time communication. It integrates P2P security for end-to-end encrypted connections, ensuring hassle-free and secure browsing powered by high-end server infrastructure.
+Our project focuses on creating a secure, blockchain-backed system for data integrity, transparency, and real-time communication and monitoring ganga river 24 x7 x 365 hrs with live footage and data and give best view out of those (please check it out it gonna live :)- https://bhagirathi-namamiganga.streamlit.app/). It integrates P2P security for end-to-end encrypted connections, ensuring hassle-free and secure browsing powered by high-end server infrastructure.
 
 * 🪪 License: Apache-2.0 license
 * 🏢 Organization: Siya Ram Society of Research and Development (SRSRD)

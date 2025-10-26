@@ -5,19 +5,19 @@ This is our Smart India Hackathon (SIH) 2024 project under the Ministry of Jal S
 
 Our project focuses on creating a secure, blockchain-backed system for data integrity, transparency, and real-time communication. It integrates P2P security for end-to-end encrypted connections, ensuring hassle-free and secure browsing powered by high-end server infrastructure.
 
-🪪 License: Apache-2.0 license
-🏢 Organization: Siya Ram Society of Research and Development (SRSRD)
-🔐 Security: P2P End-to-End Encryption (Developed & Owned by SRSRD)
+* 🪪 License: Apache-2.0 license
+* 🏢 Organization: Siya Ram Society of Research and Development (SRSRD)
+* 🔐 Security: P2P End-to-End Encryption (Developed & Owned by SRSRD)
 
 👥 Team Members
 
- 1. Shivam Kesari
+ 1.  Shivam Kesari
 
-2. Nippon
+ 2.  Nippon
 
-3. Prayas
+ 3.  Prayas
 
-4. Shyam
+ 4.  Shyam
 
 A special thanks to everyone involved for their dedication and teamwork in making this project possible!
 

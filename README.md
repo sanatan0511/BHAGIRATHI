@@ -11,13 +11,13 @@ Our project focuses on creating a secure, blockchain-backed system for data inte
 
 👥 Team Members
 
-Shivam Kesari
+ 1. Shivam Kesari
 
-Nippon
+2. Nippon
 
-Prayas
+3. Prayas
 
-Shyam
+4. Shyam
 
 A special thanks to everyone involved for their dedication and teamwork in making this project possible!
 
